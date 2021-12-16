@@ -1,6 +1,6 @@
 # DEG-Data-Essenciality
 
-Integração dos dados da base de eucariotos e bactérias do DEG database com Biopython e Pandas.
+Integração dos dados da base de eucariotos e bactérias do DEG database e do Genbank com Biopython e Pandas.
 
 OBS: Algumas bases precisaram ser zipadas.
 
