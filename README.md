@@ -1,6 +1,7 @@
 # DEG-Data-Essentiality
 
-Integração dos dados da base de eucariotos e bactérias do DEG database e do Genbank com Biopython e Pandas.
+Integração dos dados da base de eucariotos do DEG database e do Genbank com Biopython e Pandas.
+Cálculo de Medidas de Centralidade e Clustering de proteomas.
 
 
 
